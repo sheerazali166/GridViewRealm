@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GridViewRealm</string>
+    <!--    <string name="my_favourite_city">of course karachi</string>-->
+    <string name="my_favourite_city">My Favourite City</string>
+    <string name="add_a_vote">Click to Add A Vote</string>
+</resources>
